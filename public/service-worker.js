@@ -3,6 +3,7 @@ const CACHE_NAME = "file-cache-v1";
 
 // These files will be cached immediately
 const FILES_TO_CACHE = [
+    "/",
     "/icons/icon-192x192.png",
     "/icons/icon-512x512.png",
     "/db.js",
